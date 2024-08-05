@@ -1,20 +1,11 @@
 # <p align="center">Hospital Mortality Prediction Project</p>
 
-# <p align="center"> ![pic](https://media.istockphoto.com/id/1194838627/vector/patient-in-hospital.jpg?s=612x612&w=0&k=20&c=LqhY8qXr1IgGA0PjGLwqEyVJL-MBTFBU5rf3Dcg4DWo=) </p># <p align="center">Hospital Mortality Prediction Project</p>
-
 # <p align="center"> ![pic](https://media.istockphoto.com/id/1194838627/vector/patient-in-hospital.jpg?s=612x612&w=0&k=20&c=LqhY8qXr1IgGA0PjGLwqEyVJL-MBTFBU5rf3Dcg4DWo=) </p>
 
 #### **Tools Used**: Excel, MySQL, Tableau
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
 <!-- code_chunk_output -->
 
-- [Hospital Mortality Prediction Project](#p-aligncenterhospital-mortality-prediction-projectp)
-- [ ![pic](https://media.istockphoto.com/id/1194838627/vector/patient-in-hospital.jpg?s=612x612&w=0&k=20&c=LqhY8qXr1IgGA0PjGLwqEyVJL-MBTFBU5rf3Dcg4DWo=) # Hospital Mortality Prediction Project](#p-aligncenter-pichttpsmediaistockphotocomid1194838627vectorpatient-in-hospitaljpgs612x612w0k20clqhy8qxr1igga0pjglwqeyvjl-mbtfbu5rf3dcg4dwo-p-p-aligncenterhospital-mortality-prediction-projectp)
-- [ ![pic](https://media.istockphoto.com/id/1194838627/vector/patient-in-hospital.jpg?s=612x612&w=0&k=20&c=LqhY8qXr1IgGA0PjGLwqEyVJL-MBTFBU5rf3Dcg4DWo=) ](#p-aligncenter-pichttpsmediaistockphotocomid1194838627vectorpatient-in-hospitaljpgs612x612w0k20clqhy8qxr1igga0pjglwqeyvjl-mbtfbu5rf3dcg4dwo-p)
-      - [**Tools Used**: Excel, MySQL, Tableau](#tools-used-excel-mysql-tableau)
-      - [**Tools Used**: Excel, MySQL](#tools-used-excel-mysql)
 
 <!-- /code_chunk_output -->
 
