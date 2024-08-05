@@ -11,7 +11,7 @@
 
 
 
-[SQL Analysis (Code)](https://github.com/SharifAthar/Hospital-Mortality-Prediction-SQL/blob/main/Hospital_Mortality_SQL_Analysis.sql)
+[SQL Analysis (Code)](https://github.com/yashbind/Hospital_Mortality_SQL_Analysis/blob/main/Hospital_Mortality_SQL_Analysis.sql)
 
 
 - **Business Problem:** Healthcare professionals are working to pinpoint the primary causes of mortality among hospitalized patients. Gaining a clear understanding of these causes at an early stage will enable them to create targeted interventions and apply evidence-based protocols to address the factors leading to in-hospital deaths. 
